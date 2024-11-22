@@ -1,0 +1,25 @@
+img {
+    height: 200px;
+    padding: 20px;
+}
+
+.images {
+    max-width: 850px;
+    flex-wrap: wrap;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.box-contents {
+    border: 16px solid white;
+    padding: 20px;
+    width: 550px;
+    background-color: rgb(42, 42, 42);
+    border-radius: 30px;
+    margin-right: 0;
+}
